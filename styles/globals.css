@@ -1,0 +1,9 @@
+@import url("https://likova.space/assets/stylesheets/global.css?v=1782384571");
+@import url("https://likova.space/assets/stylesheets/landing.css?v=1782384571");
+
+html,
+body,
+#__next {
+  margin: 0;
+  min-height: 100%;
+}
